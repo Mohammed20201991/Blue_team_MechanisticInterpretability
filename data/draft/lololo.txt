@@ -1,0 +1,22 @@
+gpt-2 hungarain 
+1- https://colab.research.google.com/github/neelnanda-io/Easy-Transformer/blob/clean-transformer-demo/Clean_Transformer_Demo.ipynb
+2- https://colab.research.google.com/drive/1xfD9VldL_UM5KgZGId7QV4ZP1ehi2O3t#scrollTo=UiqACTrZTTU3
+3 - most important part (https://colab.research.google.com/drive/1i0iutydgQJpU-kEyF7g1Dg84TZVxe28g#scrollTo=bN0Zu8NmQH2m)
+4- create repo for project and add memmbers 
+5 - Latex 
+6- https://colab.research.google.com/github/neelnanda-io/Easy-Transformer/blob/clean-transformer-demo/Clean_Transformer_Demo_Template.ipynb
+7 - https://github.com/neelnanda-io/TransformerLens/?fbclid=IwAR1bVX0oqZb9h2AujwCXagPSyK9UD-aG_2pCwme7wUcUw2i6-EMD0989Vnk
+
+task later : inspecting (https://neuroscope.io/gpt2-small/11/2372.html)and put replacemnt text like hu 
+maybe (https://gradio.app/) if we figuer out
+
+Sure! Here are a few ideas for projects for the hackathon: 
+1. Developing an interactive tool to visualize and explain neural network models. 
+2. Creating a library of interpretable models that can be used to explain complex decisions made by neural networks. 
+3. Developing a framework for automatically generating explanations of neural network predictions. 
+4. Building an interactive web-based platform for exploring and understanding the inner workings of deep learning models. 
+5. Creating an open source library of interpretable machine learning algorithms that can be used to explain model predictions.
+
+can I use  toknizer for spesfic model by replacing .to_tokens method 
+vocab dict can be modfied in gpt-2 model 
+https://www.youtube.com/watch?v=nka_X7bDH-w
